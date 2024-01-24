@@ -1,0 +1,12 @@
+1)HIGH AVAILABILITY:
+an IT system, component, or application can operate at a high level, continuously, without intervention, for a given time period.
+Example:imagine a simple login system. Instead of relying on a single authentication server, you could implement redundant servers. If one server goes down, the system can automatically switch to another, ensuring users can still log in even if there's a server failure. This redundancy helps maintain availability in the face of potential issues.
+2)AUTO SCALING:Autoscaling is the process of dynamically allocating resources to match performance requirements. As the volume of work grows, an application may need additional resources to maintain the desired performance levels and satisfy service-level agreements (SLAs)..
+3) RESILIENCY:
+4) LOGGING:Logging is a crucial aspect of software development and operations, involving the recording of events, activities, and status information within a system.
+5)RTO:RTO stands for "Recovery Time Objective...RTO represents the maximum allowable downtime for a system or business process after a disruption or disaster occurs.
+6)RPO:"Recovery point of Objective..RPO is the point in time to which data must be recovered after an outage or disaster. It defines the acceptable level of data loss that an organization is willing to tolerate.
+7)ROI:Return on Investment...for example .any business it contains some ups and some downs...
+8) ALERTING:Alerting in the context of software and system management involves setting up notifications or alarms to inform stakeholders about specific events, conditions, or issues that require attention.
+9) observability:Observability in software development and operations refers to the ability to gain insights into the internal workings of a system by collecting, analyzing, and correlating data from various sources.
+10) MONITORING:Monitoring in the context of software and system management involves the continuous observation of key performance indicators (KPIs), metrics, logs, and other relevant data to ensure that a system is operating as expected.
