@@ -1,0 +1,65 @@
+Principles of "JAVA CODING":-
+
+These principles establish practices that lend to developing software with considerations for maintaining and extending as the project grows.
+SOLID Stands for:-
+S:-Single Responsibility 
+O:-Open–closed
+L:-Liskov substitution
+I:-Interface segregation
+D:-Dependency inversion
+ 
+OOPS Concept in Java:-
+Object-oriented programming System(OOPs) is a programming concept that is based on “objects”. The primary purpose of object-oriented programming is to increase the readability, flexibility and maintainability of programs.
+Object oriented programming brings data and its behaviour together in a single entity called objects. It makes the programming easier to understand.
+
+There are several types of oops concepts ,they are:-
+
+1)ASSOCIATION:
+->it also contains a "Has-A" relation.
+->it was represented has strong arrow.
+->it contains four types OF Relation:-
+
+->one-to-one:-Student and Student ID:
+Each student is assigned a unique student ID.
+Each student ID corresponds to only one student.
+
+->one-to-many:-Playlist and Songs:
+One playlist can contain multiple songs.
+Each song can be part of multiple playlists.
+
+->many-to-one:-Students and Class:
+Many students can belong to a single class.
+Each class has multiple students.
+
+->many-to-many:-Musicians and Instruments:
+Many musicians can play multiple instruments.
+Each instrument can be played by multiple musicians.
+
+2)COMPOSITION:
+->it contains a" Has-A" relation 
+->it should be represent with two class and daimond symbol(it should would be filled full) and with arrow.
+->it is dependent with each other.
+
+3)AGGREGATION:
+->"Has-A" RELATION
+->it has weaker relation
+->it is a unidirectional.
+->it represent with daimond syambol but without filled..
+
+4)INHERITANCE:
+->It is a "Is-A" relation
+->deriving from one class to another.
+->it contains two class:-> superclass , ->subclass
+
+5)POLYMORPHISM:
+->Manyforms
+->There are two main types of polymorphism: 
+->compile-time (static) polymorphism 
+->runtime (dynamic) polymorphism.
+
+6)ABSTARCTION:-
+->essential details rather than the irrelavant things.
+->hiding some essential details.
+
+7)ENCAPSULATION:
+->process of binding data and methods together in a single unit.
